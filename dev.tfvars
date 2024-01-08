@@ -1,0 +1,5 @@
+cluster_name = "tmp-cluster"
+alb_name = "tmp-alb"
+bucket_name = "tmp-bucket-123"
+cidr_block = "0.0.0.0/0"
+sg_name = "tmp_sg"
